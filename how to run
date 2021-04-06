@@ -1,0 +1,5 @@
+This project is build in laraval and react js 
+on Frontend use ReactJS , while on backend use laravel
+to run this project download the entire project 
+make two folder frontend and backend , on frontend folder place frontend and run command npm install on terminal.You must have node and npm inyour system to run this.
+Backend place in Backend folder and for backend you must have PHP and  composer in your system and then  run command " PHP artisan serve ".
